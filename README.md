@@ -20,5 +20,8 @@ Not all OSM buildings include the height data, therefore height was set to rando
 
 
 
+All of the DTM and LiDAR data for Australia can be found on https://elevation.fsdf.org.au/
+
+
 
 Almost all of this was made with the help of the tutorial videos from Dr.Florent Poux
