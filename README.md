@@ -17,3 +17,8 @@ Make sure all datasets use the same coordinate reference system (CRS).
 
 Building height handling
 Not all OSM buildings include the height data, therefore height was set to random(35,50)
+
+
+
+
+Almost all of this was made with the help of the tutorial videos from Dr.Florent Poux
