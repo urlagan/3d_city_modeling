@@ -11,7 +11,7 @@ Saves the meshes as .obj files under Output/<City>/.
 
 Optionally, cloudgify() generates a rotating GIF animation of the model.
 
-Important warnings
+IMPORTANT WARNING:
 EPSG code mismatch
 Make sure all datasets use the same coordinate reference system (CRS).
 
